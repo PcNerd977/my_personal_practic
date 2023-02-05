@@ -27,3 +27,4 @@ if extra_cheese == "Y":
     price += 1
 
 print(f"your price for your preferable choice is ${price} \nTHANKS FOR YOUR PRATRONAGE!")
+# This is a git practices. This is one that i want 

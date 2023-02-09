@@ -22,7 +22,7 @@ def clear():
 
 # Then create a while loop, which will have the condition, that will end the loop if user input is no
 # Then clear the console.
-# when the user enter no, then the program should return the highest bidder
+# when the user enter no, then the program should return the highest bidder "This is where the changes occur"
 end_game = 'y'
 while end_game == 'y':
     name = input("Enter you name: \n")
